@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://customdiamonds-ca.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://customdiamonds.ca/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://customdiamonds-ca.pages.dev/</loc>
+<loc>https://customdiamonds.ca/</loc>
 </url>
 <url>
-<loc>https://customdiamonds-ca.pages.dev/202ct-multi-diamond-ring/</loc>
+<loc>https://customdiamonds.ca/202ct-multi-diamond-ring/</loc>
 <lastmod>2024-09-11T16:30:38-04:00</lastmod>
 </url>
 <url>
-<loc>https://customdiamonds-ca.pages.dev/363ct-solitaire-18k-white-gold-diamond-ring/</loc>
+<loc>https://customdiamonds.ca/363ct-solitaire-18k-white-gold-diamond-ring/</loc>
 <lastmod>2024-09-11T16:28:54-04:00</lastmod>
 <image:image>
-<image:loc>https://customdiamonds-ca.pages.dev/media/posts/2/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png-2.webp</image:loc>
+<image:loc>https://customdiamonds.ca/media/posts/2/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png-2.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://customdiamonds-ca.pages.dev/media/posts/2/gallery/noam-carver-18k-white-gold-1-50ct-round-solitaire-diamond-engagement-ring-jewellery-engagement-ring-b353-01ws-39073322926321_900x.jpg.webp</image:loc>
+<image:loc>https://customdiamonds.ca/media/posts/2/gallery/noam-carver-18k-white-gold-1-50ct-round-solitaire-diamond-engagement-ring-jewellery-engagement-ring-b353-01ws-39073322926321_900x.jpg.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://customdiamonds-ca.pages.dev/media/posts/2/gallery/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png.webp</image:loc>
+<image:loc>https://customdiamonds.ca/media/posts/2/gallery/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://customdiamonds-ca.pages.dev/contact/</loc>
+<loc>https://customdiamonds.ca/contact/</loc>
 <lastmod>2024-09-11T16:54:30-04:00</lastmod>
 </url>
 <url>
-<loc>https://customdiamonds-ca.pages.dev/hello-world/</loc>
+<loc>https://customdiamonds.ca/hello-world/</loc>
 <lastmod>2024-09-11T15:58:36-04:00</lastmod>
 </url>
 <url>
-<loc>https://customdiamonds-ca.pages.dev/pricing/</loc>
+<loc>https://customdiamonds.ca/pricing/</loc>
 <lastmod>2024-09-11T18:03:18-04:00</lastmod>
 </url>
 </urlset>
