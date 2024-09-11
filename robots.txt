@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://customdiamonds.ca/sitemap.xml
+Sitemap: https://customdiamonds-ca.pages.dev/sitemap.xml
