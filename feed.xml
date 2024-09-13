@@ -3,7 +3,7 @@
     <title>Custom Diamonds Canada</title>
     <link href="https://customdiamonds.ca/feed.xml" rel="self" />
     <link href="https://customdiamonds.ca" />
-    <updated>2024-09-12T22:11:48-04:00</updated>
+    <updated>2024-09-12T22:14:54-04:00</updated>
     <author>
         <name>Jonathan Mostovoy</name>
     </author>
@@ -25,7 +25,7 @@
             <![CDATA[
                     <p><img src="https://customdiamonds.ca/media/posts/8/9D84F180-F779-4BD0-8C00-4B9559AF21F5_1_201_a.jpeg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><video loading="lazy" width="696" height="1239" style="width: 696px; height: 1239px;" controls="controls" data-mce-fragment="1">
-<source src="https://www.youtube.com/shorts/HXt1PkanhPc" /></video></figure>
+<source src="https://www.youtube.com/embed/HXt1PkanhPc" /></video></figure>
             ]]>
         </content>
     </entry>
