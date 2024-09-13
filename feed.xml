@@ -3,7 +3,7 @@
     <title>Custom Diamonds Canada</title>
     <link href="https://customdiamonds.ca/feed.xml" rel="self" />
     <link href="https://customdiamonds.ca" />
-    <updated>2024-09-13T11:43:29-04:00</updated>
+    <updated>2024-09-13T13:45:06-04:00</updated>
     <author>
         <name>Jonathan Mostovoy</name>
     </author>
@@ -92,51 +92,39 @@
         </author>
         <link href="https://customdiamonds.ca/363ct-solitaire-18k-white-gold-diamond-ring/"/>
         <id>https://customdiamonds.ca/363ct-solitaire-18k-white-gold-diamond-ring/</id>
-        <media:content url="https://customdiamonds.ca/media/posts/2/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png-2.webp" medium="image" />
+        <media:content url="https://customdiamonds.ca/media/posts/2/IMG_5054.jpeg" medium="image" />
             <category term="rings"/>
 
         <updated>2024-09-11T16:23:06-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://customdiamonds.ca/media/posts/2/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png-2.webp" alt="" />
-                    Here's an example of a 18k gold ring we made recently:
+                        <img src="https://customdiamonds.ca/media/posts/2/IMG_5054.jpeg" alt="" />
+                    Here's the diamond for an 18k white gold ring we are currently&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://customdiamonds.ca/media/posts/2/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://customdiamonds.ca/media/posts/2/IMG_5054.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    Here's an example of a 18k gold ring we made recently:
+    Here's the diamond for an 18k white gold ring we are currently producing:
   </p>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
-      <a href="https://customdiamonds.ca/media/posts/2/gallery/noam-carver-18k-white-gold-1-50ct-round-solitaire-diamond-engagement-ring-jewellery-engagement-ring-b353-01ws-39073322926321_900x.jpg.webp" data-size="900x900">
-        <img loading="lazy" src="https://customdiamonds.ca/media/posts/2/gallery/noam-carver-18k-white-gold-1-50ct-round-solitaire-diamond-engagement-ring-jewellery-engagement-ring-b353-01ws-39073322926321_900x.jpg-thumbnail.webp" height="768" width="768" alt="" >
+      <a href="https://customdiamonds.ca/media/posts/2/gallery/IMG_5054.jpeg" data-size="2161x2161">
+        <img loading="lazy" src="https://customdiamonds.ca/media/posts/2/gallery/IMG_5054-thumbnail.jpeg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://customdiamonds.ca/media/posts/2/gallery/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png.webp" data-size="1000x1000">
-        <img loading="lazy" src="https://customdiamonds.ca/media/posts/2/gallery/ecksand-06624-w-0.75-round-ring_44072dd3-54e6-4270-9aea-44f55cda304a.png-thumbnail.webp" height="768" width="768" alt="" >
+      <a href="https://customdiamonds.ca/media/posts/2/gallery/2024-09-10-13-12-14-560.jpeg" data-size="640x480">
+        <img loading="lazy" src="https://customdiamonds.ca/media/posts/2/gallery/2024-09-10-13-12-14-560-thumbnail.jpeg" height="480" width="640" alt="" >
       </a>
       
     </figure>
     </div>
   </div>
-
-  <div class="post__toc">
-    
-    <ul>
-      
-    </ul>
-  </div>
-  
-
-  <ul>
-    <li></li>
-  </ul>
             ]]>
         </content>
     </entry>
