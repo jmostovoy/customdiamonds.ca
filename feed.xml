@@ -3,7 +3,7 @@
     <title>Custom Diamonds Canada</title>
     <link href="https://customdiamonds.ca/feed.xml" rel="self" />
     <link href="https://customdiamonds.ca" />
-    <updated>2024-09-20T13:55:45-04:00</updated>
+    <updated>2024-09-20T14:04:15-04:00</updated>
     <author>
         <name>Jonathan Mostovoy</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://customdiamonds.ca/hello-halo2/"/>
         <id>https://customdiamonds.ca/hello-halo2/</id>
+        <media:content url="https://customdiamonds.ca/media/posts/19/double-halo.jpg" medium="image" />
 
         <updated>2024-09-20T13:43:38-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://customdiamonds.ca/media/posts/19/double-halo.jpg" alt="" />
                     Specifications wise, a 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://customdiamonds.ca/media/posts/19/double-halo.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Specifications wise, a </p>
             ]]>
         </content>
