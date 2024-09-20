@@ -16,14 +16,13 @@
             "title": "&quot;Hello Halo^2&quot;",
             "summary": "Specifications wise, a ",
             "content_html": "<p>Specifications wise, a </p>",
-            "image": "https://customdiamonds.ca/media/posts/19/c7a55109-aa41-4f69-8ad8-79a7da9bf89f-2.jpeg",
             "author": {
                 "name": "Jonathan Mostovoy"
             },
             "tags": [
             ],
             "date_published": "2024-09-20T13:43:38-04:00",
-            "date_modified": "2024-09-20T13:51:30-04:00"
+            "date_modified": "2024-09-20T13:55:33-04:00"
         },
         {
             "id": "https://customdiamonds.ca/music-and-nature/",
@@ -95,7 +94,7 @@
             "title": "&quot;Simply Elegant&quot;",
             "summary": "A forthcoming diamond ring currently in production for a client. Specs&hellip;",
             "content_html": "\n  <p>\n    A forthcoming diamond ring currently in production for a client.\n  </p>\n\n  <p>\n    Specs wise: The diamond is a 3.63ct, F colour, VVS2 clarity, Ideal Cut. And the setting will be an elegant 6-prong (we always recommend 6 prongs for diamonds &gt;2.5ct) 2.7mm solitaire in 18K white gold.“Simply Elegant” Why-Not Ring: Diamond (3.63ct, round cut) in 18k White Gold.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"2\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/2/gallery/IMG_5054.jpeg\" data-size=\"2161x2161\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/2/gallery/IMG_5054-thumbnail.jpeg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/2/gallery/2024-09-10-13-12-14-560.jpeg\" data-size=\"640x480\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/2/gallery/2024-09-10-13-12-14-560-thumbnail.jpeg\" height=\"480\" width=\"640\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/2/a3ccbda4-98a4-4faf-bf8a-f1b5c603eae8-2.jpeg\" height=\"1003\" width=\"1600\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://customdiamonds.ca/media/posts/2/responsive/a3ccbda4-98a4-4faf-bf8a-f1b5c603eae8-2-xs.jpeg 300w ,https://customdiamonds.ca/media/posts/2/responsive/a3ccbda4-98a4-4faf-bf8a-f1b5c603eae8-2-sm.jpeg 480w ,https://customdiamonds.ca/media/posts/2/responsive/a3ccbda4-98a4-4faf-bf8a-f1b5c603eae8-2-md.jpeg 768w ,https://customdiamonds.ca/media/posts/2/responsive/a3ccbda4-98a4-4faf-bf8a-f1b5c603eae8-2-lg.jpeg 1024w\">\n      \n    </figure>",
-            "image": "https://customdiamonds.ca/media/posts/2/a3ccbda4-98a4-4faf-bf8a-f1b5c603eae8.jpeg",
+            "image": "https://customdiamonds.ca/media/posts/2/simple-elegance.jpg",
             "author": {
                 "name": "Jonathan Mostovoy"
             },
@@ -103,7 +102,7 @@
                    "rings"
             ],
             "date_published": "2024-09-11T16:23:06-04:00",
-            "date_modified": "2024-09-20T12:03:57-04:00"
+            "date_modified": "2024-09-20T13:55:45-04:00"
         }
     ]
 }
