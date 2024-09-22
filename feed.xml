@@ -3,7 +3,7 @@
     <title>Custom Diamonds Canada</title>
     <link href="https://customdiamonds.ca/feed.xml" rel="self" />
     <link href="https://customdiamonds.ca" />
-    <updated>2024-09-20T14:07:00-04:00</updated>
+    <updated>2024-09-22T11:43:34-04:00</updated>
     <author>
         <name>Jonathan Mostovoy</name>
     </author>
@@ -16,19 +16,24 @@
         </author>
         <link href="https://customdiamonds.ca/hello-halo2/"/>
         <id>https://customdiamonds.ca/hello-halo2/</id>
-        <media:content url="https://customdiamonds.ca/media/posts/19/double-halo.jpg" medium="image" />
+        <media:content url="https://customdiamonds.ca/media/posts/19/B0002156.jpeg" medium="image" />
 
         <updated>2024-09-20T13:43:38-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://customdiamonds.ca/media/posts/19/double-halo.jpg" alt="" />
-                    Specifications wise, a 
+                        <img src="https://customdiamonds.ca/media/posts/19/B0002156.jpeg" alt="" />
+                    Specifications wise, this was a custom double-halo designed ring with 67&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://customdiamonds.ca/media/posts/19/double-halo.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Specifications wise, a </p>
+                    <p><img src="https://customdiamonds.ca/media/posts/19/B0002156.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Specifications wise, this was a custom double-halo designed ring with 67 natural accessory diamonds to beautifully compliment the centre natural cushion cut diamond.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://customdiamonds.ca/media/posts/19/gallery/B0002148.jpeg" data-size="2967x2967"><img loading="lazy" src="https://customdiamonds.ca/media/posts/19/gallery/B0002148-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://customdiamonds.ca/media/posts/19/gallery/B0002154.jpeg" data-size="1483x1483"><img loading="lazy" src="https://customdiamonds.ca/media/posts/19/gallery/B0002154-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://customdiamonds.ca/media/posts/19/gallery/B0002156.jpeg" data-size="1998x1998"><img loading="lazy" src="https://customdiamonds.ca/media/posts/19/gallery/B0002156-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
