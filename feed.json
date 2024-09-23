@@ -103,6 +103,21 @@
             ],
             "date_published": "2024-09-11T16:23:06-04:00",
             "date_modified": "2024-09-23T12:51:48-04:00"
+        },
+        {
+            "id": "https://customdiamonds.ca/brilliant-history/",
+            "url": "https://customdiamonds.ca/brilliant-history/",
+            "title": "&quot;Brilliant History&quot;",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/20/gallery/0B4CABCE-4E0D-4F9F-B178-B67CC9966004_1_201_a.jpeg\" data-size=\"1915x1915\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/20/gallery/0B4CABCE-4E0D-4F9F-B178-B67CC9966004_1_201_a-thumbnail.jpeg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/20/gallery/53F132A4-C588-41C4-8E6B-0EB3F3C8A968_1_105_c.jpeg\" data-size=\"768x1024\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/20/gallery/53F132A4-C588-41C4-8E6B-0EB3F3C8A968_1_105_c-thumbnail.jpeg\" height=\"1024\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/20/gallery/58F4ECA1-E27E-42A5-8081-0F4339DC1C35_1_105_c.jpeg\" data-size=\"768x1024\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/20/gallery/58F4ECA1-E27E-42A5-8081-0F4339DC1C35_1_105_c-thumbnail.jpeg\" height=\"1024\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/20/gallery/826C7943-4D11-4213-BA92-D23B0C21FAE4_1_105_c.jpeg\" data-size=\"768x1024\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/20/gallery/826C7943-4D11-4213-BA92-D23B0C21FAE4_1_105_c-thumbnail.jpeg\" height=\"1024\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://customdiamonds.ca/media/posts/20/gallery/8AAE5E72-2E0B-44FF-ABB9-05BF05C38EFF_1_105_c.jpeg\" data-size=\"1024x768\">\n        <img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/20/gallery/8AAE5E72-2E0B-44FF-ABB9-05BF05C38EFF_1_105_c-thumbnail.jpeg\" height=\"576\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://customdiamonds.ca/media/posts/20/0B4CABCE-4E0D-4F9F-B178-B67CC9966004_1_201_a.jpeg",
+            "author": {
+                "name": "Jonathan Mostovoy"
+            },
+            "tags": [
+                   "rings"
+            ],
+            "date_published": "2024-09-01T14:04:00-04:00",
+            "date_modified": "2024-09-23T14:05:35-04:00"
         }
     ]
 }
