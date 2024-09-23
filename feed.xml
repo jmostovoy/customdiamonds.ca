@@ -3,7 +3,7 @@
     <title>Custom Diamonds Canada</title>
     <link href="https://customdiamonds.ca/feed.xml" rel="self" />
     <link href="https://customdiamonds.ca" />
-    <updated>2024-09-23T12:44:51-04:00</updated>
+    <updated>2024-09-23T12:51:48-04:00</updated>
     <author>
         <name>Jonathan Mostovoy</name>
     </author>
@@ -171,19 +171,19 @@
         </author>
         <link href="https://customdiamonds.ca/36ct-elegant-ring/"/>
         <id>https://customdiamonds.ca/36ct-elegant-ring/</id>
-        <media:content url="https://customdiamonds.ca/media/posts/2/simple-elegance.jpg" medium="image" />
+        <media:content url="https://customdiamonds.ca/media/posts/2/08B03158-1D8C-42B9-A184-C30B8A67B1F4_1_201_a.jpeg" medium="image" />
             <category term="rings"/>
 
         <updated>2024-09-11T16:23:06-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://customdiamonds.ca/media/posts/2/simple-elegance.jpg" alt="" />
+                        <img src="https://customdiamonds.ca/media/posts/2/08B03158-1D8C-42B9-A184-C30B8A67B1F4_1_201_a.jpeg" alt="" />
                     A forthcoming diamond ring currently in production for a client. Specs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://customdiamonds.ca/media/posts/2/simple-elegance.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://customdiamonds.ca/media/posts/2/08B03158-1D8C-42B9-A184-C30B8A67B1F4_1_201_a.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     A forthcoming diamond ring currently in production for a client.
@@ -192,6 +192,22 @@
   <p>
     Specs wise: The diamond is a 3.63ct, F colour, VVS2 clarity, Ideal Cut. And the setting will be an elegant 6-prong (we always recommend 6 prongs for diamonds &gt;2.5ct) 2.7mm solitaire in 18K white gold.“Simply Elegant” Why-Not Ring: Diamond (3.63ct, round cut) in 18k White Gold.
   </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://customdiamonds.ca/media/posts/2/gallery/08B03158-1D8C-42B9-A184-C30B8A67B1F4_1_201_a.jpeg" data-size="1506x1506">
+        <img loading="lazy" src="https://customdiamonds.ca/media/posts/2/gallery/08B03158-1D8C-42B9-A184-C30B8A67B1F4_1_201_a-thumbnail.jpeg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://customdiamonds.ca/media/posts/2/gallery/49A7FD5E-9497-45F2-87CB-35429CF9ADC1_1_201_a.jpeg" data-size="1435x1435">
+        <img loading="lazy" src="https://customdiamonds.ca/media/posts/2/gallery/49A7FD5E-9497-45F2-87CB-35429CF9ADC1_1_201_a-thumbnail.jpeg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="2">
