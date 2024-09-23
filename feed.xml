@@ -3,7 +3,7 @@
     <title>Custom Diamonds Canada</title>
     <link href="https://customdiamonds.ca/feed.xml" rel="self" />
     <link href="https://customdiamonds.ca" />
-    <updated>2024-09-23T14:23:40-04:00</updated>
+    <updated>2024-09-23T14:34:09-04:00</updated>
     <author>
         <name>Jonathan Mostovoy</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://customdiamonds.ca/hello-halo2/"/>
         <id>https://customdiamonds.ca/hello-halo2/</id>
         <media:content url="https://customdiamonds.ca/media/posts/19/A7B05DA4-7AB5-466F-B19A-D1109B3F2577_1_201_a.jpeg" medium="image" />
+            <category term="rings"/>
 
         <updated>2024-09-20T13:43:38-04:00</updated>
             <summary>
