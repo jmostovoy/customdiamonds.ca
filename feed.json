@@ -123,22 +123,6 @@
             "date_modified": "2024-11-16T19:14:44-05:00"
         },
         {
-            "id": "https://customdiamonds.ca/28ct-radiant-sapphire-ring/",
-            "url": "https://customdiamonds.ca/28ct-radiant-sapphire-ring/",
-            "title": "&quot;Enchanted Lagoon&quot;",
-            "summary": "Our client bought, about a year prior, two beautiful matching green&hellip;",
-            "content_html": "<p>Our client bought, about a year prior, two beautiful matching green sapphires with the intention to have them, one-day, set inside a future engagement ring. When that day came, we sourced a beautiful radiant cut diamond and custom made the following ring to go side-by-side and compliment the client's two sapphires.</p>\n<p>If you like this ring or would like to incorporate certain elements into your dream design, please feel free to <a href=\"https://customdiamonds.ca/contact/\">contact us</a> or email: <a href=\"mailto:info@customdiamonds.ca\">info@customdiamonds.ca</a>!</p>\n<p>Specifications: Centre 2.79ct radiant cut diamond, side stones: 2x 0.78ct natural green sapphires, all set in 14K yellow gold.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4487-2.jpeg\" data-size=\"1388x1388\"><img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4487-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4489-2.jpeg\" data-size=\"3024x2448\"><img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4489-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"622\"></a></figure>\n</div></div>",
-            "image": "https://customdiamonds.ca/media/posts/8/9D84F180-F779-4BD0-8C00-4B9559AF21F5_1_201_a-2.jpeg",
-            "author": {
-                "name": "Jonathan Mostovoy"
-            },
-            "tags": [
-                   "rings"
-            ],
-            "date_published": "2024-09-10T22:11:00-04:00",
-            "date_modified": "2024-11-05T14:36:02-05:00"
-        },
-        {
             "id": "https://customdiamonds.ca/a-sparkling-melody/",
             "url": "https://customdiamonds.ca/a-sparkling-melody/",
             "title": "&quot;A Sparkling Melody&quot;",
@@ -169,6 +153,22 @@
             ],
             "date_published": "2024-09-01T14:04:00-04:00",
             "date_modified": "2024-11-05T14:35:04-05:00"
+        },
+        {
+            "id": "https://customdiamonds.ca/28ct-radiant-sapphire-ring/",
+            "url": "https://customdiamonds.ca/28ct-radiant-sapphire-ring/",
+            "title": "&quot;Enchanted Lagoon&quot;",
+            "summary": "Our client bought, about a year prior, two beautiful matching green&hellip;",
+            "content_html": "<p>Our client bought, about a year prior, two beautiful matching green sapphires with the intention to have them, one-day, set inside a future engagement ring. When that day came, we sourced a beautiful radiant cut diamond and custom made the following ring to go side-by-side and compliment the client's two sapphires.</p>\n<p>If you like this ring or would like to incorporate certain elements into your dream design, please feel free to <a href=\"https://customdiamonds.ca/contact/\">contact us</a> or email: <a href=\"mailto:info@customdiamonds.ca\">info@customdiamonds.ca</a>!</p>\n<p>Specifications: Centre 2.79ct radiant cut diamond, side stones: 2x 0.78ct natural green sapphires, all set in 14K yellow gold.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4487-2.jpeg\" data-size=\"1388x1388\"><img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4487-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4489-2.jpeg\" data-size=\"3024x2448\"><img loading=\"lazy\" src=\"https://customdiamonds.ca/media/posts/8/gallery/IMG_4489-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"622\"></a></figure>\n</div></div>",
+            "image": "https://customdiamonds.ca/media/posts/8/9D84F180-F779-4BD0-8C00-4B9559AF21F5_1_201_a-2.jpeg",
+            "author": {
+                "name": "Jonathan Mostovoy"
+            },
+            "tags": [
+                   "rings"
+            ],
+            "date_published": "2024-05-10T22:11:00-04:00",
+            "date_modified": "2025-05-22T17:55:39-04:00"
         }
     ]
 }
